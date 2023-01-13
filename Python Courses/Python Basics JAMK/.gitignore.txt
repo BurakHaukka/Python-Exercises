@@ -1,0 +1,4 @@
+__pycache__
+/exercises/__pycache__
+/Project work/__pychache__
+/examples
