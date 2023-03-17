@@ -5,10 +5,8 @@ def sum_numbers(numbers=None):
         return total
 
     else:
-
+        
         return sum(numbers)
-
-
 pass
 
 numbers = range(1, 11)
